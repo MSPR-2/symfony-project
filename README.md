@@ -62,10 +62,10 @@ Please make sure to update tests as appropriate.
 
 1. Fork the Project
 2. Create your Feature Branch (`git switch -c feature/myFeature`) OR
-2. Create your Bugfix Branch (`git switch -c bugfix/myBug`)
-3. Commit your Changes (`git commit -m 'Add some feature'`)
-4. Push to the Branch (`git push origin feature/myFeature` or `git switch -c bugfix/myBug`)
-5. Open a Pull Request
+3. Create your Bugfix Branch (`git switch -c bugfix/myBug`)
+4. Commit your Changes (`git commit -m 'Add some feature'`)
+5. Push to the Branch (`git push origin feature/myFeature` or `git switch -c bugfix/myBug`)
+6. Open a Pull Request
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
