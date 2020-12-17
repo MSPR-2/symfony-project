@@ -61,9 +61,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 1. Fork the Project
-2. Create your Feature Branch (`git switch -c feature/myFeature`)
+2. Create your Feature Branch (`git switch -c feature/myFeature`) or Create your Bugfix Branch (`git switch -c bugfix/myBug`)
 3. Commit your Changes (`git commit -m 'Add some feature'`)
-4. Push to the Branch (`git push origin feature/myFeature`)
+4. Push to the Branch (`git push origin feature/myFeature` or `git switch -c bugfix/myBug`)
 5. Open a Pull Request
 
 ## License
