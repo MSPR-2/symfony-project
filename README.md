@@ -54,6 +54,21 @@ $ cd my_project/
 $ ./bin/phpunit
 ```
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+1. Fork the Project
+2. Create your Feature Branch (`git switch -c feature/myFeature`)
+3. Commit your Changes (`git commit -m 'Add some feature'`)
+4. Push to the Branch (`git push origin feature/myFeature`)
+5. Open a Pull Request
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 [1]: https://symfony.com/doc/current/best_practices.html
 [2]: https://symfony.com/doc/current/reference/requirements.html
 [3]: https://symfony.com/doc/current/cookbook/configuration/web_server_configuration.html
