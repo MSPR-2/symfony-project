@@ -1,4 +1,4 @@
-Symfony Demo Application
+MSPR Intégration Continue - Symfony Demo Application
 ========================
 
 The "Symfony Demo Application" is a reference application created to show how
